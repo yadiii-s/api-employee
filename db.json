@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Budi Santoso",
+      "position": "Software Engineer",
+      "department": "Engineering"
+    },
+    {
+      "id": 2,
+      "name": "Siti Aminah",
+      "position": "Product Manager",
+      "department": "Product"
+    },
+    {
+      "id": 3,
+      "name": "Andi Wijaya",
+      "position": "UI/UX Designer",
+      "department": "Design"
+    }
+  ]
+}
